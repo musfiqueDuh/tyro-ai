@@ -1,1 +1,1 @@
-# tyro-ai
+# tyro-ai calender management app
